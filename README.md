@@ -1,16 +1,48 @@
-## Hi there 👋
+### Hello everyone, I'm Nevionn 👋
 
-<!--
-**Nevionn/Nevionn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm primarily focused on **mobile development** using **React Native**.  
+**Web development** is also part of my toolkit — not a problem at all.
 
-Here are some ideas to get you started:
+Work on both **open source** projects and **commercial** tasks.
+Also take orders for creating various covers and video editing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+All the software I write is something I personally use in my daily life.  
+I think it's great if someone finds my solutions useful.
+
+[My duplicate repositories on Gitlab](https://gitlab.com/web4450122)
+
+---
+
+### Main tech stack
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" height="50" />
+</p>
+
+### DevOps
+
+<p align="left">
+  <img src="https://cdn.simpleicons.org/ubuntu" alt="Ubuntu Logo" height="50" width="50" style="fill:#E95420" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/filezilla/filezilla-original.svg" height="50" />
+</p>
+
+### Desktop development
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="50" />
+  <img src="https://cdn.simpleicons.org/ffmpeg" alt="FFmpeg Logo" height="50" width="50" style="fill:#007808" />
+</p>
+
+### Graphics work
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg" height="50" />    
+</p>
