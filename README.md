@@ -36,7 +36,7 @@ I think it's great if someone finds my solutions useful.
 ### Desktop development
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tauri/tauri-original.svg" height="50" />
   <img src="https://cdn.simpleicons.org/ffmpeg" alt="FFmpeg Logo" height="50" width="50" style="fill:#007808" />
 </p>
 
