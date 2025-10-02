@@ -37,6 +37,7 @@ I think it's great if someone finds my solutions useful.
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tauri/tauri-original.svg" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/512px-Rust_programming_language_black_logo.svg.png" height="50" />
   <img src="https://cdn.simpleicons.org/ffmpeg" alt="FFmpeg Logo" height="50" width="50" style="fill:#007808" />
 </p>
 
