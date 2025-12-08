@@ -9,8 +9,13 @@ Also take orders for creating various covers and video editing
 All the software I write is something I personally use in my daily life.  
 I think it's great if someone finds my solutions useful.
 
-[My duplicate repositories on Gitlab](https://gitlab.com/web4450122)
+[My duplicate repositories on Gitlab](https://gitlab.com/web4450122) (not supported)
 
+main project:
+
+[Phovion](https://github.com/Nevionn/Phovion) - Local web application designed for creating and managing photo albums
+[Phovion64](https://github.com/Nevionn/Phovion64) - Mobile application designed to reliably protect your photo content
+[Extraction-point](https://github.com/Nevionn/Extraction-point) - Application for backing up and transferring files between disks or directories
 ---
 
 ### Main tech stack
