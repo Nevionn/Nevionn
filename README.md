@@ -13,9 +13,9 @@ I think it's great if someone finds my solutions useful.
 
 main project:
 
-[Phovion](https://github.com/Nevionn/Phovion) - Local web application designed for creating and managing photo albums
-[Phovion64](https://github.com/Nevionn/Phovion64) - Mobile application designed to reliably protect your photo content
-[Extraction-point](https://github.com/Nevionn/Extraction-point) - Application for backing up and transferring files between disks or directories
+- [Phovion](https://github.com/Nevionn/Phovion) - Local web application designed for creating and managing photo albums
+- [Phovion64](https://github.com/Nevionn/Phovion64) - Mobile application designed to reliably protect your photo content
+- [Extraction-point](https://github.com/Nevionn/Extraction-point) - Application for backing up and transferring files between disks or directories
 ---
 
 ### Main tech stack
