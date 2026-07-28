@@ -9,7 +9,7 @@ main project:
 - [Extraction-point](https://github.com/Nevionn/Extraction-point) - Application for backing up and transferring files between disks or directories
 ---
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=FFC131" alt="Tauri" />
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
